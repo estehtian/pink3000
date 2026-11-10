@@ -1,0 +1,38 @@
+[
+  {
+    "id": "somay-original",
+    "name": "Somay Original",
+    "category": "somay",
+    "price": 12000
+  },
+  {
+    "id": "somay-komplit",
+    "name": "Somay Komplit",
+    "category": "somay",
+    "price": 16000
+  },
+  {
+    "id": "somay-pedas",
+    "name": "Somay Pedas",
+    "category": "somay",
+    "price": 14000
+  },
+  {
+    "id": "esteh-original",
+    "name": "Es Teh Original",
+    "category": "esteh",
+    "price": 5000
+  },
+  {
+    "id": "esteh-lemon",
+    "name": "Es Teh Lemon",
+    "category": "esteh",
+    "price": 8000
+  },
+  {
+    "id": "paket-hemat",
+    "name": "Paket Somay + Es Teh",
+    "category": "paket",
+    "price": 15000
+  }
+]
