@@ -1,0 +1,1 @@
+User-agent: *\nAllow: /\nSitemap: https://USERNAME.github.io/REPOSITORY/sitemap.xml\n
